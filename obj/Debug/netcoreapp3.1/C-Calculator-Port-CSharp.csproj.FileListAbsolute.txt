@@ -1,0 +1,11 @@
+C:\Users\alexc\Documents\GitHub\C-Calculator-Port-CSharp\obj\Debug\netcoreapp3.1\C-Calculator-Port-CSharp.csprojAssemblyReference.cache
+C:\Users\alexc\Documents\GitHub\C-Calculator-Port-CSharp\obj\Debug\netcoreapp3.1\C-Calculator-Port-CSharp.AssemblyInfoInputs.cache
+C:\Users\alexc\Documents\GitHub\C-Calculator-Port-CSharp\obj\Debug\netcoreapp3.1\C-Calculator-Port-CSharp.AssemblyInfo.cs
+C:\Users\alexc\Documents\GitHub\C-Calculator-Port-CSharp\bin\Debug\netcoreapp3.1\C-Calculator-Port-CSharp.exe
+C:\Users\alexc\Documents\GitHub\C-Calculator-Port-CSharp\bin\Debug\netcoreapp3.1\C-Calculator-Port-CSharp.deps.json
+C:\Users\alexc\Documents\GitHub\C-Calculator-Port-CSharp\bin\Debug\netcoreapp3.1\C-Calculator-Port-CSharp.runtimeconfig.json
+C:\Users\alexc\Documents\GitHub\C-Calculator-Port-CSharp\bin\Debug\netcoreapp3.1\C-Calculator-Port-CSharp.runtimeconfig.dev.json
+C:\Users\alexc\Documents\GitHub\C-Calculator-Port-CSharp\bin\Debug\netcoreapp3.1\C-Calculator-Port-CSharp.dll
+C:\Users\alexc\Documents\GitHub\C-Calculator-Port-CSharp\bin\Debug\netcoreapp3.1\C-Calculator-Port-CSharp.pdb
+C:\Users\alexc\Documents\GitHub\C-Calculator-Port-CSharp\obj\Debug\netcoreapp3.1\C-Calculator-Port-CSharp.dll
+C:\Users\alexc\Documents\GitHub\C-Calculator-Port-CSharp\obj\Debug\netcoreapp3.1\C-Calculator-Port-CSharp.pdb
